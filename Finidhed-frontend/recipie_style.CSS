@@ -1,0 +1,54 @@
+*,*::before,*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: pink;
+    padding-top: 40px;
+    padding-bottom: 40px;
+}
+img{
+    border-radius: 10px;
+    height: 203px;
+    width: 453px;
+}
+.container{
+    width: 600px;
+    margin: 0 auto;
+    background-color: white;
+    border-radius: 10px;
+    padding-top: 30px;
+    padding-bottom: 50px;
+}
+.one{
+    width: 500px;
+    padding: 20px;
+    margin: 0 auto;
+    background-color: white;
+    font-family:monospace;
+}
+.two{
+    background-color: rgb(224, 193, 220);
+    border-radius: 10px;
+    text-align:justify;
+    padding-left: 50px;
+    margin:auto;
+    width: 453px;
+}
+.three{
+    padding-left: 20px;
+    margin:0 auto;
+    width: 453px;
+}
+.four{
+    padding-left: 20px;
+    margin: 0 auto;
+    width: 453px;
+}
+span{   
+    font-weight: bold;
+}
+h1,h2,h3{
+    text-decoration: underline;
+}

@@ -1,0 +1,168 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 100px ;
+    
+}
+.container{
+    display: flex;
+    flex-wrap: wrap;
+    /* border: 1px solid black; */
+    height: 470px;
+    width: 790px;
+    gap: 30px;
+}
+.one{
+    display: flex;
+    flex-direction: column;
+    gap: 8px;
+    /* border: 1px solid black; */
+    width: 500px;
+    height: 300px;
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-left: 30px;
+}
+.two{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    height: 300px;
+    width: 220px;
+    border-radius: 10px;
+    background-color: hsl(217, 19%, 35%);
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.three{
+    display: flex;
+    align-self: flex-start;
+    /* border: 1px solid black; */
+    height: 600px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: hsl(217, 19%, 35%);
+    margin-left: 20px;
+    padding-top: 500px;
+    padding-bottom: 310px;
+}
+.four{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black; */
+    height: 280px;
+    width: 200px;
+    border-radius: 10px;
+    background-color: hsl(217, 19%, 35%);
+    padding-top: 25px;
+    padding-left: 10px;
+    padding-right: 10px
+}
+.five{
+    display: flex;
+    flex-direction: column;
+    /* border: 1px solid black;  */
+    width: 520px;
+    height: 280px;
+    background-color: hsl(263, 55%, 52%);
+    border-radius: 10px;
+    padding-top: 25px;
+    padding-left: 20px;
+    padding-right: 10px
+}
+.avatar{
+    border-radius: 50%;
+    border: 3px solid hsl(264, 82%, 80%);
+    height: 40px;
+    width: 40px;
+}
+.jonathan{
+    border-radius: 50%;
+    border: 3px solid hsl(0, 0%, 81%);
+    height: 40px;
+    width: 40px;
+}
+/* .quote{
+    margin-left: auto;
+} */
+.stress{
+    display: flex;
+    gap: 10px;
+    color: white;
+}
+.stress p{
+    margin-top: 3px;
+}
+.dont{
+    display: flex;
+    flex-direction: column;
+}
+.dont p{
+    color: white;
+    font-size: larger;
+}
+.jon{
+    display: flex;
+    gap: 10px;
+    color: white;
+    padding-bottom: 10px;
+}
+.walt{
+    color: white;
+    font-size: larger
+}
+.wal{
+    color: white;
+}
+.jean{
+    display: flex;
+    gap: 10px;
+    color: white;
+    padding-bottom: 10px;
+}
+.jea{
+    border-radius: 50%;
+    border: 3px solid hsl(0, 0%, 81%);
+    height: 40px;
+    width: 40px;
+}
+.netty{
+    color: white;
+    font-size: larger;
+}
+.harm{
+    color: white;
+}
+.rick{
+    border-radius: 50%;
+    border: 3px solid hsl(0, 0%, 81%);
+    height: 40px;
+    width: 40px;
+}
+.pat{
+    display: flex;
+    gap: 10px;
+    color: white;
+    padding-bottom: 10px;
+}
+.awe{
+    display: flex;
+    flex-direction: column;
+}
+.awe p{
+    margin-top: 3px;
+    color: white;
+    font-size: larger;
+    margin-bottom: 10px;
+}
+it{
+    display: flex;
+}

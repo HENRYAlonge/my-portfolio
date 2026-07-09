@@ -1,0 +1,117 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color:grey;
+    padding: 120px;
+}
+/* .conatiner{
+    display: flex;
+    border: 1px solid black;
+    height: 400px;
+    width: 600px;
+} */
+section{
+    display: flex;
+    /* border: 1px solid black; */
+    height: 200px;
+    width: 600px;
+    margin: 0 auto;
+    /* border-radius: 10px; */
+}
+.one{
+    background-color: white;
+    height: 180px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+.two{
+    display: flex;
+    height: 250px;
+    background-color: green;
+    height: 230px;
+    border-bottom-left-radius: 10px;
+    border-bottom-right-radius: 10px;
+}
+.now{
+    display: flex;
+    padding-top: 30px; 
+    padding-left: 50px; 
+    padding-bottom: 10px;
+    /* padding: 0px 0px 0px 0px; */
+    color: #2DD4BF;
+}
+.thirty{
+    display: flex;
+    padding-left: 50px;
+    padding-bottom: 10px; 
+    color: limegreen;
+    
+}
+.gain{
+    display: flex;
+    padding: 0px 50px;
+    color: grey;
+}
+.three{
+    /* border: 1px solid black; */
+    width: 50%;
+    background-color: rgb(44, 179, 178);
+    border-bottom-left-radius: 10px;
+}
+.four{
+    /* border:1px solid black; */
+    width:50%;
+    background-color: rgb(85, 180, 180);
+    border-bottom-right-radius: 10px;
+}
+.monthly{
+    color: white;
+    padding-left: 50px;
+    padding-top:30px ;
+    padding-bottom: 10px;
+}
+span{
+    color: white;
+    font-size: 30px;
+}
+.mon{
+    padding-left: 50px;
+    color: rgba(255, 244, 244, 0.295);
+    padding-bottom: 10px;
+}
+.access{
+    color:white;
+    padding-left: 50px;
+    padding-bottom: 20px;
+}
+.sign{
+    display: flex;
+    padding-left: 50px;
+    padding-right: 50px;
+    color: white;
+    background-color: lime;
+    margin-left: 50px;
+    justify-content: center;
+    align-items: center;
+    width: 70%;
+    height: 50px;
+    cursor: pointer;
+    border-radius: 10px;
+    border: none;
+}
+.why{
+    color: white;
+    padding-left: 50px;
+    padding-top:30px ;
+    padding-bottom: 10px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    color: white;
+    padding-left: 50px;
+}

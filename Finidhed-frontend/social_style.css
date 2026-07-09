@@ -1,0 +1,94 @@
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&family=Roboto:ital@0;1&display=swap');
+
+
+*,*::before,*::after {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: black;
+    padding-top: 40px;
+    margin: 0 auto;
+}
+h1{
+    color: white;
+    text-align: center;
+}
+h2{
+    color: green;
+    text-align: center;
+}
+h3{
+    color: white;
+}
+.container{
+    border-radius: 10px;
+    background-color:rgb(34, 32, 32);
+    width: 400px;
+    margin: 0 auto;
+    padding-top: 20px;
+    padding-bottom: 25px;
+}
+img{
+    height: 90px;
+    width: 100px;
+    border-radius: 50px;
+    margin: 0 auto;
+    display: block;
+}
+.one{
+    padding-left: 20px;
+    margin: 0 auto;
+    text-align: center;
+}
+.two{
+    border-radius:10px ;
+    margin: 0 auto;
+    text-align: center;
+    background-color:grey;
+    padding: 20px;
+    max-width: 300px;
+}
+.three{
+    border-radius:10px ;
+    margin: 0 auto;
+    text-align: center;
+    background-color:grey;
+    padding: 20px;
+    max-width: 300px;
+}
+.four{
+    border-radius:10px ;
+    margin: 0 auto;
+    text-align: center;
+    background-color:grey;
+    padding: 20px;
+    max-width: 300px;
+}
+.five{
+    border-radius:10px ;
+    margin: 0 auto;
+    text-align: center;
+    background-color:grey;
+    padding: 20px;
+    max-width: 300px;
+}
+.six{
+    border-radius:10px ;
+    margin: 0 auto;
+    text-align: center;
+    background-color:grey;
+    padding: 20px;
+    max-width: 300px;
+}
+p{
+    font-family: "Poppins", sans-serif;
+}
+.fa-house-chimney{
+    color: aqua;
+}
+.fa-phone{
+    color: green;
+}

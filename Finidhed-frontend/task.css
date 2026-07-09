@@ -1,0 +1,129 @@
+*,*::before,*::after{
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+}
+body{
+    display: flex;
+    margin: 0;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    /* padding: 100px 200px 100px 200px; */
+}
+section{
+    background-color: wheat;
+    /* border:1px solid black; */
+    display: flex;
+    height: 400px;
+    width: 700px;
+    margin: 0 auto;
+    border-radius: 20px;
+}
+.one{
+    height: 100%;
+    width: 50%;
+    background-color: rgb( 89, 58, 243);
+    display: flex;
+    border-radius: 20px;
+}
+.two{
+    height: 100%;
+    width: 50%;
+    background-color: wheat;
+    display: flex;
+    border-radius: 20px;
+    padding:20px;
+    flex-direction: column;
+    justify-content: space-between;
+}
+/* img{
+    height: 25px;
+    width:25px;
+} */
+.three{
+    height: 25px;
+    width:25px;
+}
+.four{
+    height: 25px;
+    width:25px;
+}
+.five{
+    height: 25px;
+    width:25px;
+}
+.six{
+    height: 25px;
+    width:25px;
+}
+.reaction{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items:center;
+    border-radius: 10px;
+    background-color: red;
+    padding: 0px 10px;
+}
+.memory{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: yellow;
+    padding: 0px 10px;
+}
+.verbal{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: green;
+    padding: 0px 10px;
+}
+.visual{
+    display: flex;
+    justify-content: space-between;
+    height: 40px;
+    align-items: center;
+    border-radius: 10px;
+    background-color: purple;
+    padding: 0px 10px;
+}
+button{
+    padding: 10px;
+    border-radius: 10px;
+    background-color:grey;
+    width: 310px;
+    color: white;
+}
+p{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.center{
+    display: flex;
+    justify-content: center;
+    margin: 0 auto;
+}
+img{
+    display: flex;
+    justify-content: center;
+    width: 340px;
+
+}
+h1{
+    display: flex;
+    justify-content: center;
+    color: white;
+}
+.stress{
+    display: flex;
+    color: white;
+    justify-content:left;
+    align-items: center;
+}
