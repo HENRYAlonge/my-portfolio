@@ -1,3 +1,11 @@
+<!-- 
+DEVELOPER NOTE:
+This is the default README file for the entire repository.
+To copy the link to the live web documentation, highlight the URL below:
+
+👉 https://henryalonge.github.io/my-portfolio/
+-->
+
 # my-portfolio
 
 A collection of things I've worked upon. If you have any suggestions or edits to the projects I upload here, feel free to E-mail me at alongehenry0@gmail.com.
@@ -55,6 +63,8 @@ These are terminal-based Python programs showcasing logic, algorithms, and core 
   
 * **Simple Calculator** (`simple calculator.py`)  
   A foundational program implementing arithmetic operations.
+
+  https://henryalonge.github.io/my-portfolio/
   
 * **Simple Quiz Game** (`simple quiz game.py`)  
   A terminal-based question-and-answer game with score tracking.
