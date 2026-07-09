@@ -8,7 +8,7 @@ To copy the link to the live web documentation, highlight the URL below:
 
 # my-portfolio
 
-A collection of things I've worked upon. If you have any suggestions or edits to the projects I upload here, feel free to E-mail me at alongehenry0@gmail.com.
+A collection of things I've worked upon. If you have any suggestions or edits to the projects I upload here, feel free to E-mail me at [alongehenry0@gmail.com](mailto:alongehenry0@gmail.com)
 
 ---
 
